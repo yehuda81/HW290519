@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW290519\bin\Debug\HW290519.exe.config
+C:\Users\Admin\source\repos\HW290519\bin\Debug\HW290519.exe
+C:\Users\Admin\source\repos\HW290519\bin\Debug\HW290519.pdb
+C:\Users\Admin\source\repos\HW290519\obj\Debug\HW290519.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HW290519\obj\Debug\HW290519.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW290519\obj\Debug\HW290519.exe
+C:\Users\Admin\source\repos\HW290519\obj\Debug\HW290519.pdb
